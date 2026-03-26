@@ -1,0 +1,3 @@
+--Liệt kê nhân viên có chức vụ quản lý/ phục vụ,...
+select * from NHANVIEN
+where ChucVu = 'QuanLy'
