@@ -15,3 +15,7 @@
 * 
 * Link slide: [slide báo cáo](https://www.canva.com/design/DAHFC9em-dQ/ubUHWG3gdDG8azoYQemidw/edit?utm_content=DAHFC9em-dQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 ### SQL
+* TruyVan: 20 câu hỏi truy vấn
+* `Database.sql`: Tạo 12 bảng và chèn dữ liệu mẫu
+### Source code
+* `htdocs`: chạy bằng localhost thông qua xampp và mysql. Host public thông qua Ngrok
