@@ -12,7 +12,8 @@
 * [Quản lí khách sạn](https://lara-monocular-scotty.ngrok-free.dev/)
 ## Thành phần báo cáo
 ### Tài liệu báo cáo + slide
-* 
+* `Sơ-đồ-ER.pdf`: Sơ đồ thực thể liên kết ER
+* `Mô-hình-quan-hệ.pdf`:Mô hình dữ liệu quan hệ sau khi chuẩn hóa
 * Link slide: [slide báo cáo](https://www.canva.com/design/DAHFC9em-dQ/ubUHWG3gdDG8azoYQemidw/edit?utm_content=DAHFC9em-dQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 ### SQL
 * TruyVan: 20 câu hỏi truy vấn
